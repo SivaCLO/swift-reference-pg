@@ -1,3 +1,5 @@
+For more playgrounds like this, visit http://hackswift.co/playgrounds
+
 Swift Reference Playground
 ==========================
 
@@ -15,7 +17,5 @@ It covers the basic syntax definitions and different ways to use
 Keep this handy and copy-paste the required snippets into your projects.
 
 Feel free to suggest modifications, report issues or improvements in the issues section.
-
-For more playgrounds like this, visit http://hackswift.co/playgrounds
 
 Follow us on Twitter : [@hackswift](http://twitter.com/hackswift)
