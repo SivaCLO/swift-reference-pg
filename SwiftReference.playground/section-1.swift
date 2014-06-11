@@ -45,10 +45,11 @@ occupations["Jayne"] = "Public Relations"
 
 // Empty Array and Dictionary
 var emptyArray = String[]()
-let emptyDictionary = Dictionary<String, Float>()
+var emptyDictionary = Dictionary<String, Float>()
 
 // Type inferred
 emptyArray = []
+emptyDictionary = [:]
 
 /// Control Flow ------------------------------------------
 
