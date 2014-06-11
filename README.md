@@ -12,10 +12,10 @@ It covers the basic syntax definitions and different ways to use
 * Protocols and Extensions
 * Generics
 
-Keep this handy and copy-paste the required snippet into your projects when required. Have fun.
+Keep this handy and copy-paste the required snippets into your projects.
 
 Feel free to suggest modifications, report issues or improvements in the issues section.
 
-Checkout other handy playgrounds here : http://hackswift.co/playgrounds
+For more playgrounds like this, visit http://hackswift.co/playgrounds
 
-Twitter : [@hackswift](http://twitter.com/hackswift)
+Follow us on Twitter : [@hackswift](http://twitter.com/hackswift)
