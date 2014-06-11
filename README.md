@@ -18,4 +18,4 @@ Feel free to suggest modifications, report issues or improvements in the issues 
 
 Checkout other handy playgrounds here : http://hackswift.co/playgrounds
 
-Twitter : @hackswift
+Twitter : [@hackswift](http://twitter.com/hackswift)
