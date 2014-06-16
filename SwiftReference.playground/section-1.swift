@@ -504,3 +504,14 @@ func anyCommonElements <T, U where T: Sequence, U: Sequence, T.GeneratorType.Ele
 }
 anyCommonElements([1, 2, 3], [3])
 
+// Infix Operator
+
+operator infix =~ {}
+
+func =~ (input: String, search: String) -> Bool {
+    return input.rangeOfString(search) ? true : false
+}
+
+"iPhone" =~ "Phone"
+
+
