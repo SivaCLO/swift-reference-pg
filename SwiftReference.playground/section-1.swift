@@ -18,6 +18,10 @@ let implicitDouble = 70.0
 let explicitDouble: Double = 70
 let testConst :Float = 4
 
+// Avoid divide by zero, returns 0 when second parameter is zero
+10 &/ 5
+10 &/ 0
+
 // Type Casting
 let label = "The width is "
 let width = 94
@@ -499,4 +503,15 @@ func anyCommonElements <T, U where T: Sequence, U: Sequence, T.GeneratorType.Ele
     return false
 }
 anyCommonElements([1, 2, 3], [3])
+
+// Infix Operator
+
+operator infix =~ {}
+
+func =~ (input: String, search: String) -> Bool {
+    return input.rangeOfString(search) ? true : false
+}
+
+"iPhone" =~ "Phone"
+
 
