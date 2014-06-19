@@ -2,6 +2,7 @@ For more playgrounds like this, visit http://hackswift.co/playgrounds
 
 Swift Reference Playground
 ==========================
+[Open in XCode 6](https://github.com/hackswift/swift-reference-pg/archive/master.zip)
 
 Swift Reference is a handy playground file that can be used when you are starting to learn swift.
 
